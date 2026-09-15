@@ -45,8 +45,7 @@
 ---
 
 📊 GitHub статистика
-<p align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MislanGigisly&theme=solarized_dark)
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MislanGigisly&theme=solarized_dark" height="165"/> </p>
 
 ---
 
