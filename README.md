@@ -1,6 +1,6 @@
 # Hi there, I'm Dmitriy
 ### Frontend developer
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MislanGigisly&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MislanGigisly&theme=тема)
 
 
 <!--MislanGigisly
