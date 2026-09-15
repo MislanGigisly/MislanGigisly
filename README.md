@@ -45,7 +45,8 @@
 ---
 
 📊 GitHub статистика
-<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MislanGigisly&show_icons=true&theme=default&hide_border=true" height="165"/> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MislanGigisly&layout=compact&hide_border=true" height="165"/> </p>
+<p align="center"> 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MislanGigisly&theme=solarized_dark) </p>
 
 ---
 
@@ -62,7 +63,6 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MislanGigisly&theme=solarized_dark)
 
 
 <!--MislanGigisly
